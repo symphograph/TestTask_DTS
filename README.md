@@ -144,7 +144,7 @@ GROUP BY m.id, m.name
 
 ### Загрузите репозиторий
 ```bash
-git clone --depth=1 --branch=master https://github.com/ .
+git clone --depth=1 --branch=master https://github.com/symphograph/TestTask_DTS .
 ```
 
 ### Установите зависимости
